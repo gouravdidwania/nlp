@@ -160,3 +160,7 @@ cython_debug/
 .idea/
 
 .DS_Store
+*.h5
+*.keras
+*.ipynb_checkpoints
+Natural Language Processing R_27.07.21
